@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{A1208397-A2AF-2335-D54B-08C867939649}") = "Go Home", "Assembly-CSharp.csproj", "{9CEF414D-4A1A-6FCE-A58D-6D21F9D0AA14}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Go Home", "Assembly-CSharp.csproj", "{9CEF414D-4A1A-6FCE-A58D-6D21F9D0AA14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
